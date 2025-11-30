@@ -11,4 +11,4 @@ Core responsibilities of this repository include:
 * Data modeling using MongoDB & Mongoose
 * Input validation, rate limiting, and secure middleware
 
-The backend is designed for deployment on AWS or any modern cloud environment, with CI/CD support planned via GitHub Actions.
+The backend is designed for deployment on AWS or any modern cloud environment, with CI/CD support planned via GitHub Actions. 
